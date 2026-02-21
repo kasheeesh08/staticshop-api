@@ -4,29 +4,29 @@
     "version": "90035d3e"
   },
   "products": [
-    {"id":"prod-90035d3e-001","name":"Laptop","category":"Electronics","price":50000,"stock":2,"rating":4.5},
-    {"id":"prod-90035d3e-002","name":"Phone","category":"Electronics","price":30000,"stock":3,"rating":4.4},
-    {"id":"prod-90035d3e-003","name":"Headphones","category":"Electronics","price":5000,"stock":6,"rating":4.2},
+    {"id":"prod-90035d3e-001","name":"Laptop","category":"electronics","price":50000,"stock":2,"rating":4.5},
+    {"id":"prod-90035d3e-002","name":"Phone","category":"electronics","price":30000,"stock":3,"rating":4.4},
+    {"id":"prod-90035d3e-003","name":"Headphones","category":"electronics","price":5000,"stock":6,"rating":4.2},
 
-    {"id":"prod-90035d3e-004","name":"Shirt","category":"Clothing","price":1000,"stock":10,"rating":4.1},
-    {"id":"prod-90035d3e-005","name":"Jeans","category":"Clothing","price":2000,"stock":8,"rating":4.0},
-    {"id":"prod-90035d3e-006","name":"Jacket","category":"Clothing","price":3000,"stock":5,"rating":4.3},
+    {"id":"prod-90035d3e-004","name":"Shirt","category":"fashion","price":1000,"stock":10,"rating":4.1},
+    {"id":"prod-90035d3e-005","name":"Jeans","category":"fashion","price":2000,"stock":8,"rating":4.0},
+    {"id":"prod-90035d3e-006","name":"Jacket","category":"fashion","price":3000,"stock":5,"rating":4.3},
 
-    {"id":"prod-90035d3e-007","name":"Book A","category":"Books","price":500,"stock":20,"rating":4.6},
-    {"id":"prod-90035d3e-008","name":"Book B","category":"Books","price":600,"stock":15,"rating":4.5},
-    {"id":"prod-90035d3e-009","name":"Book C","category":"Books","price":700,"stock":10,"rating":4.4},
+    {"id":"prod-90035d3e-007","name":"Book A","category":"books","price":500,"stock":20,"rating":4.6},
+    {"id":"prod-90035d3e-008","name":"Book B","category":"books","price":600,"stock":15,"rating":4.5},
+    {"id":"prod-90035d3e-009","name":"Book C","category":"books","price":700,"stock":10,"rating":4.4},
 
-    {"id":"prod-90035d3e-010","name":"Chair","category":"Furniture","price":2000,"stock":7,"rating":4.2},
-    {"id":"prod-90035d3e-011","name":"Table","category":"Furniture","price":5000,"stock":4,"rating":4.3},
-    {"id":"prod-90035d3e-012","name":"Lamp","category":"Furniture","price":1500,"stock":6,"rating":4.1},
+    {"id":"prod-90035d3e-010","name":"Chair","category":"home","price":2000,"stock":7,"rating":4.2},
+    {"id":"prod-90035d3e-011","name":"Table","category":"home","price":5000,"stock":4,"rating":4.3},
+    {"id":"prod-90035d3e-012","name":"Lamp","category":"home","price":1500,"stock":6,"rating":4.1},
 
-    {"id":"prod-90035d3e-013","name":"Shoes","category":"Footwear","price":2500,"stock":9,"rating":4.2},
-    {"id":"prod-90035d3e-014","name":"Sandals","category":"Footwear","price":1500,"stock":12,"rating":4.0},
-    {"id":"prod-90035d3e-015","name":"Boots","category":"Footwear","price":3500,"stock":5,"rating":4.3},
+    {"id":"prod-90035d3e-013","name":"Shoes","category":"footwear","price":2500,"stock":9,"rating":4.2},
+    {"id":"prod-90035d3e-014","name":"Sandals","category":"footwear","price":1500,"stock":12,"rating":4.0},
+    {"id":"prod-90035d3e-015","name":"Boots","category":"footwear","price":3500,"stock":5,"rating":4.3},
 
-    {"id":"prod-90035d3e-016","name":"Watch","category":"Accessories","price":4000,"stock":6,"rating":4.4},
-    {"id":"prod-90035d3e-017","name":"Bag","category":"Accessories","price":3000,"stock":7,"rating":4.2},
-    {"id":"prod-90035d3e-018","name":"Belt","category":"Accessories","price":1000,"stock":10,"rating":4.1}
+    {"id":"prod-90035d3e-016","name":"Watch","category":"accessories","price":4000,"stock":6,"rating":4.4},
+    {"id":"prod-90035d3e-017","name":"Bag","category":"accessories","price":3000,"stock":7,"rating":4.2},
+    {"id":"prod-90035d3e-018","name":"Belt","category":"accessories","price":1000,"stock":10,"rating":4.1}
   ],
   "aggregations": {
     "electronics": {
